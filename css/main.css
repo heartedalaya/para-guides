@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.banner {
+	height: 20em;
+	width: 100%;
+	background: url("../images/banner.jpg") center top no-repeat;
+	background-size: cover;
+}
+
+.logo {
+	max-width: 50%;
+	margin: 0 auto;
+	display: block;
+	vertical-align: center;
+}
+
+.hero {
+	width: 100%;
+}
+
+h2.hero-name {
+	display: inline;
+	vertical-align: middle;
+}
