@@ -1,0 +1,13 @@
+@media only screen and (min-width: 25em) {
+	.affinities-icon {
+		position: static;
+		padding-bottom: 1em;
+	}
+}
+
+@media only screen and (min-width: 500px) { 
+	.affinities-icon {
+		position: absolute;
+		left: 200px;
+	}
+}
